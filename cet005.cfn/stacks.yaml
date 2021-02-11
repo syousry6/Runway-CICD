@@ -1,0 +1,10 @@
+namespace: ${namespace}
+cfngin_bucket: ${cfngin_bucket_name}
+
+sys_path: ./
+
+stacks:
+  tf-state:
+    template_path: templates/cet005_cfn.yml  # also supports json templates
+    variables:
+      BucketName: ${cfngin_bucket_name}
