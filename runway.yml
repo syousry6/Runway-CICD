@@ -1,8 +1,0 @@
----
-# See full syntax at https://docs.onica.com/projects/runway/en/latest/
-deployments:
-  - modules:
-      - path: cet005.cfn
-      # - etc...
-    regions:
-      - us-east-2
