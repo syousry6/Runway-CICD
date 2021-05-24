@@ -1,4 +1,4 @@
-# unway CICD
+# Runway CICD
 
 ## Using this module you can create the following
 
