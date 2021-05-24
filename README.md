@@ -1,6 +1,6 @@
-#Runway CICD
+# unway CICD
 
-It is required to do the following:
+## Using this module you can create the following
 
 1. Create a runway project to deploy 2 CloudFormation templates that create the following resources:
 
